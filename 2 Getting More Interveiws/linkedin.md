@@ -10,3 +10,4 @@ Always have in **mind Linkedin is better than resume** and everyone in the tech 
 2. Create **ideas, hacks & problem solving** contents **withing your niche**
 3. Connects with **Recruiters** and join **groups** within your niche
 4. Leverage on Linkedins **extensive search tools** and **job alert systems** to find **jobs within your niche** and get **updated early** anytime a **new job posting** is made
+5. Reach out to **dream job company employees** and **ask for recommendation**.
