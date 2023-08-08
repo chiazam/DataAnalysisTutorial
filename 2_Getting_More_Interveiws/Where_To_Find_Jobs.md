@@ -3,7 +3,7 @@
 There are a ton of places to find jobs but always choose **Quality over Quantity**.
 
 1. Linkeding
-2. Hacnews **Monthly who is hiring section**
+2. Hacknews **Monthly who is hiring section**
 3. Angelist is the **best place** if you **tergeting start ups**
 4. WeWorkRemotely is the **best place** if you **tergeting remote jobs**
 5. Hired
