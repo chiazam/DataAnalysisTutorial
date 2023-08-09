@@ -4,4 +4,4 @@ States that **Runtime** and **number of operation** is **constant** no matter **
 
 *formulae: **O(n)** -> constant time (runtime)*
 
-It's a **fair operation** meaning it does not **escalate quickly** therefore not much of a **CPU Intensive Operation**
+It's a **good operation** meaning it does not **escalate** therefore not a **CPU Intensive Operation**
