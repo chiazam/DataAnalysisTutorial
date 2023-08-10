@@ -21,3 +21,5 @@ let printFirstItemThenFirstHalfThenSayHi100Times = (items => {
     }
 
 });
+
+// O(n)

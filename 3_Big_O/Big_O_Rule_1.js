@@ -26,8 +26,8 @@ let findAzamine = (arr => {
 
 });
 
-findAzamine(azamine);
+findAzamine(azamine); // O(n)
 
-findAzamine(everyone);
+findAzamine(everyone); // O(n)
 
-findAzamine(large);
+findAzamine(large); // O(n)
