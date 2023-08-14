@@ -15,5 +15,5 @@ A data structure is a **collection of values**, the values can have **relationsh
 
 ### Ways to understand data structure
 
-1. Knowing how to **build** one 
-2. Knowing how to **use** one 
+1. Knowing how to **build One** 
+2. Knowing how to **use It** 
