@@ -2,8 +2,6 @@
 
 Here are different ways computer store data.
 
-
-
 ### Data structure might contain
 
 1. Storage: **Permanent** or **Persistent**, meaning when you switch off the computer it still keeps the information
