@@ -25,10 +25,18 @@ let reverse = (str => {
 
 let reverse2 = (str => {
 
-    str.split('').reverse().join('');
+    return str.split('').reverse().join('');
 
 })
+
+let reverse3 = (str => str.split('').reverse().join(''));
+
+let reverse4 = (str => [...str].reverse().join(''));
 
 reverse("why all this"); //siht lla yhw
 
 reverse2("why all this"); //siht lla yhw
+
+reverse3("why all this"); //siht lla yhw
+
+reverse4("why all this"); //siht lla yhw
