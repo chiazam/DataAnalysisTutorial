@@ -9,4 +9,4 @@ Hash Tables is a **collection of data**, that stores information using **Key-Val
 3. in **Java** its called **Map**
 4. in **Ruby** its called **Hashes**
 
-*The **keys** act as the **storage index***
+*The **keys** act as the **storage index**
